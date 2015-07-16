@@ -1,0 +1,4 @@
+Zum Starten der einzelnen Programme bitte in die Makefile schauen.
+
+Die Configuration der Programme wird in der application.conf vorgenommen.
+Hier finden sich auch die Pfade der verwendeten Datenquellen.

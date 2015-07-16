@@ -1,0 +1,5 @@
+logs
+models
+nohup.out
+*.pyc
+train_tfidf.py
