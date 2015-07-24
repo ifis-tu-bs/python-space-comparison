@@ -1,6 +1,13 @@
 default:
 	cat README
 
+
+run:
+	python run_evaluation.py
+
+
+
+
 train-all: train-doc2vec train-tfidf-lsi-lda-hdp
 
 train-doc2vec:

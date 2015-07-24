@@ -1,5 +1,9 @@
 logs
 models
-nohup.out
+*.out
 *.pyc
 train_tfidf.py
+.load_perceptual_space.py.swp
+train_tfidf.old.py
+input/
+stats/
