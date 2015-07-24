@@ -1,4 +1,7 @@
-Zum Starten der einzelnen Programme bitte in die Makefile schauen.
+Please lookup the Makefile to start programs.
 
-Die Configuration der Programme wird in der application.conf vorgenommen.
-Hier finden sich auch die Pfade der verwendeten Datenquellen.
+Configuration is in application.conf.
+
+
+For a running version and data see /home/wille/Paper/2015/christoph on is69.
+
